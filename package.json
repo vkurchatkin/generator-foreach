@@ -1,6 +1,6 @@
 {
   "name": "generator-foreach",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "forEach for generators",
   "main": "index.js",
   "scripts": {
